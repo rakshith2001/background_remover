@@ -1,3 +1,4 @@
+import Header from "@/components/shared/Header"
 const AddTransformationTypePage = ({params}:any) =>{
     console.log(params.type)
     return (
